@@ -1,4 +1,4 @@
-# 🏡 Airbnb Clone Backend – Project Requirements
+# Airbnb Clone Backend – Project Requirements
 
 ## Objective
 To design and implement a scalable, secure, and robust backend system for an Airbnb-like rental marketplace platform.
