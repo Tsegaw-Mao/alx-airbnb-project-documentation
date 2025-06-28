@@ -1,19 +1,19 @@
 # 🏡 Airbnb Clone Backend – Project Requirements
 
-## 🎯 Objective
+## Objective
 To design and implement a scalable, secure, and robust backend system for an Airbnb-like rental marketplace platform.
 
 This document outlines the **core**, **technical**, and **non-functional** requirements for building the backend.
 
 ---
 
-## 📚 Introduction
+## Introduction
 
 Backend development is responsible for the server-side logic, database interactions, API endpoints, and integrations. The Airbnb Clone backend must power all user and property-related features while maintaining performance, security, and scalability.
 
 ---
 
-## 🔑 Core Functionalities
+## Core Functionalities
 
 ### 1. User Management
 
@@ -108,7 +108,7 @@ Admins can manage:
 
 ---
 
-## 🛠️ Technical Requirements
+## Technical Requirements
 
 ### 1. Database Management
 
@@ -166,7 +166,7 @@ Admins can manage:
 
 ---
 
-## 🚀 Non-Functional Requirements
+## Non-Functional Requirements
 
 ### 1. Scalability
 
